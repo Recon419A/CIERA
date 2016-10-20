@@ -3,11 +3,11 @@
 ## Accounts
 All loaners should have the following accounts:
 
-### CIERA Administrator
+**CIERA Administrator**  
 Shortname: cieraadmin  
 Password: [Redacted]
 
-### CIERA User
+**CIERA User**  
 Shortname: ciera  
 Password: [Redacted]
 
