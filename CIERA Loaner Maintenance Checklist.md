@@ -13,7 +13,7 @@ Password: [Redacted]
 
 The **CIERA Administrator** account is an administrator account shared across all of the loaners and the credentials should only be given to IT personnel. All temporary users should be given access only to the **CIERA User** account. If sudo access is required, the user may be given a temporary account which will be deleted when the computer is returned.
 
-When computers are returned, the user's data should be deleted by removing the **CIERA User** account, selecting the option for secure deletion of the home folder, and then re-creating it prior to issuance to the next user. If the user has had any temporary accounts created for them, these accounts should also be deleted with the secure erase option, but should not be re-created.
+When computers are returned, the user's data should be deleted by removing the **CIERA User** account, selecting the option for secure deletion of the home folder, and then re-creating it prior to issuance to the next user. If the user has had any temporary accounts created for them, these accounts should also be deleted with the secure erase option.
 
 ## Software
 All loaners should have the latest supported versions of the following software installed:
