@@ -4,11 +4,15 @@
 All loaners should have the following accounts:
 
 **CIERA Administrator**
+
 Shortname: cieraadmin
+
 Password: [Redacted]
 
 **CIERA User**
+
 Shortname: ciera
+
 Password: [Redacted]
 
 The **CIERA Administrator** account is an administrator account shared across all of the loaners and the credentials should only be given to IT personnel. All temporary users should be given access only to the **CIERA User** account. If sudo access is required, the user may be given a temporary account which will be deleted when the computer is returned.
@@ -27,12 +31,14 @@ All loaners should have the latest supported versions of the following software 
 All loaners should access the **Northwestern** network from the **CIERA Administrator** account using the following credentials:
 
 NetID: ccf548
+
 Password: [Redacted]
 
 ## CIERA Apple ID
 All loaners should access the App Store from the **CIERA Administrator** account using the following credentials:
 
 Email: ciera@northwestern.edu
+
 Password: [Redacted]
 
 ## System Updates
