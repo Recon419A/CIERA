@@ -16,10 +16,10 @@
 5. Enter the IP (129.105.79.70 for the color printer or 129.105.79.250 for the black and white).
 6. Click Add
 7. Check `Duplex Printing Unit`
-8. Click OK
+8. Click `OK`
 9. Control-Click on the printer and select rename
 10. Enter a name that you will remember
-11. Hit OK
+11. Click `OK`
 
 ## Ubuntu
 ### Color Printer
