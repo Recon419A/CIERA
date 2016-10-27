@@ -9,12 +9,12 @@
 7. Installation should now proceed
 
 ## macOS
-1. Go to System Preferences
+1. Go to `System Preferences`
 2. Click `Printers and Scanners`
 3. Click `+` at the bottom left under `Printers`
 4. Click `IP` at the top
 5. Enter the IP (129.105.79.70 for the color printer or 129.105.79.250 for the black and white).
-6. Click Add
+6. Click `Add`
 7. Check `Duplex Printing Unit`
 8. Click `OK`
 9. Control-Click on the printer and select rename
@@ -24,7 +24,7 @@
 ## Ubuntu
 ### Color Printer
 #### With Generic Driver
- 1. Open System Settings
+ 1. Open `System Settings`
  2. Click `Printers`
  3. Click `Add`
  4. Select `Enter URI` in the menu at left
@@ -38,20 +38,21 @@
 
 #### With Manufacturer's Driver
  1. Obtain the correct driver (can be obtained from Box, Google Drive, or by searching on the Manufacturer's web site)
- 2. Open System Settings
+ 2. Open `System Settings`
  3. Click `Printers`
  4. Click `Add`
- 5. Type "ipp://129.105.79.70" and click `Forward`
- 6. Select `Provide PPD file` and select the appropriate file using the dialog box, then click `Forward`
- 7. Click `Forward`
- 8. Click `Apply`
- 9. The printer should now be configured. Optionally, print a test page.
+ 5. Select `Enter URI` in the menu at left
+ 6. Type "ipp://129.105.79.70" and click `Forward`
+ 7. Select `Provide PPD file` and select the appropriate file using the dialog box, then click `Forward`
+ 8. Click `Forward`
+ 9. Click `Apply`
+ 10. The printer should now be configured. Optionally, print a test page.
 
 ### Black and White Printer
  1. Open System Settings
  2. Click `Printers`
  3. Click `Add`
- 4. Select "Enter URI" in the menu at left
+ 4. Select `Enter URI` in the menu at left
  5. Type "ipp://129.105.79.70" and click `Forward`
  6. Select `Select printer from database` and choose `HP`, then click `Forward`
  7. On the left, select `LaserJet p4015n` and click `Forward`
