@@ -6,7 +6,8 @@
 4. Wait briefly for the option to appear, then click `The printer that I want isn’t listed.`
 5. Select `Add a printer using a TCP/IP address or hostname` and click next
 6. Type in 129.105.79.70 for the color printer, or 129.105.79.250 for the black and white printer in the field called `Hostname or IP Address`, then click next
-7. Installation should now proceed
+7. Installation should now proceed - please wait for Windows to complete it.
+8. The printer should now be set up. You may optionally print a test page to verify that this is the case.
 
 ## macOS
 1. Go to `System Preferences`
@@ -20,6 +21,7 @@
 9. Control-Click on the printer and select rename
 10. Enter a name that you will remember
 11. Click `OK`
+12. The printer should now be set up. You may optionally print a test page to verify that this is the case.
 
 ## Ubuntu
 ### Color Printer
@@ -46,7 +48,7 @@
  7. Select `Provide PPD file` and select the appropriate file using the dialog box, then click `Forward`
  8. Click `Forward`
  9. Click `Apply`
- 10. The printer should now be configured. Optionally, print a test page.
+ 10. The printer should now be set up. You may optionally print a test page to verify that this is the case.
 
 ### Black and White Printer
  1. Open System Settings
@@ -58,4 +60,4 @@
  7. On the left, select `LaserJet p4015n` and click `Forward`
  8. Check `Duplexer installed` and click `Forward`
  9. Click `Apply`
- 10. The printer should now be configured. Optionally, you may print a test page to verify that it is set up correctly.
+ 10. The printer should now be set up. You may optionally print a test page to verify that this is the case.
