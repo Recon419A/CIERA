@@ -1,21 +1,21 @@
 # CIERA Wireless Printer Configuration
 ## Windows
-1. Click the Start menu, then choose Settings
-2. Click Devices and ensure Printers and Scanners is selected on the left-hand side
-3. Click “Add a printer or scanner”
-4. Wait briefly for the option to appear, then click “The printer that I want isn’t listed.”
-5. Select “Add a printer using a TCP/IP address or hostname” and click next
-6. Type in 129.105.79.70 for the color printer, or 129.105.79.250 for the black and white printer in the field called “Hostname or IP Address”, then click next
+1. Click the `Start` menu, then choose `Settings`
+2. Click `Devices` and ensure `Printers and Scanners` is selected on the left-hand side
+3. Click `Add a printer or scanner`
+4. Wait briefly for the option to appear, then click `The printer that I want isn’t listed.`
+5. Select `Add a printer using a TCP/IP address or hostname` and click next
+6. Type in 129.105.79.70 for the color printer, or 129.105.79.250 for the black and white printer in the field called `Hostname or IP Address`, then click next
 7. Installation should now proceed
 
 ## macOS
 1. Go to System Preferences
-2. Click Printers and Scanners
-3. Click “+” at the bottom left under “Printers”
-4. Click “IP” at the top
+2. Click `Printers and Scanners`
+3. Click `+` at the bottom left under `Printers`
+4. Click `IP` at the top
 5. Enter the IP (129.105.79.70 for the color printer or 129.105.79.250 for the black and white).
 6. Click Add
-7. Check “Duplex Printing Unit”
+7. Check `Duplex Printing Unit`
 8. Click OK
 9. Control-Click on the printer and select rename
 10. Enter a name that you will remember
@@ -25,9 +25,9 @@
 ### Color Printer
 #### With Generic Driver
  1. Open System Settings
- 2. Single-click "Printers"
- 3. Click "Add"
- 4. Select "Enter URI" in the menu at left
+ 2. Click `Printers`
+ 3. Click `Add`
+ 4. Select `Enter URI` in the menu at left
  5. Type "ipp://129.105.79.70" and click `Forward`
  6. On the `New Printer` page choose `Select printer from database` and choose `Generic`
  7. Click `Forward`
@@ -50,7 +50,7 @@
 ### Black and White Printer
  1. Open System Settings
  2. Click `Printers`
- 3. Click `Add
+ 3. Click `Add`
  4. Select "Enter URI" in the menu at left
  5. Type "ipp://129.105.79.70" and click `Forward`
  6. Select `Select printer from database` and choose `HP`, then click `Forward`
