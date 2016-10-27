@@ -22,9 +22,7 @@
 10. Enter a name that you will remember
 11. Click `OK`
 12. The printer should now be set up. You may optionally print a test page to verify that this is the case.
-  
-  
-  
+
 ## Ubuntu
 ### Color Printer
 #### With Generic Driver
